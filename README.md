@@ -3,5 +3,5 @@
 - Sample data for gradient descent  
 ./gradient_descent/sample_data.csv
 
-- Sample data for standardize with sklearn
+- Sample data for standardize with sklearn  
 ./sample_data2.csv
