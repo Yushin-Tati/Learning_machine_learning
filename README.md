@@ -8,3 +8,7 @@
 
 - Sample data for dummy trap  
 ./sample_data3.csv
+
+### ▶Classifier Accuracy Indicators
+- Sample data for Precision-Recall Cruve  
+./heart_preprocessed.csv
