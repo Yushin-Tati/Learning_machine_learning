@@ -12,3 +12,7 @@
 ### ▶Classifier Accuracy Indicators
 - Sample data for Precision-Recall Cruve  
 ./heart_preprocessed.csv
+
+### ▶EDA
+- Sample data for EDA  
+./vgsales.csv
