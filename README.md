@@ -16,3 +16,7 @@
 ### ▶EDA
 - Sample data for EDA  
 ./vgsales.csv
+
+### ▶前処理
+- Sample data for preprocessing
+./penguins_size.csv
