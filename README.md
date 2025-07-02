@@ -24,3 +24,8 @@
 ### ▶Feature Engineering
 - Sample data for feature engineering  
 ./bike_share.csv
+
+- Smaple data for feature engineering with aggregated valus
+./feature engineering with aggregated valus/homecredit_application.csv  
+./feature engineering with aggregated valus/homecredit_previous_application.csv
+./feature engineering with aggregated valus/homecredit_columns_description.csv
